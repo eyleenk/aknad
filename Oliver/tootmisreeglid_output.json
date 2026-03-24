@@ -1,0 +1,479 @@
+{
+  "40STAND60x63_900x0": {
+    "toote_tyyp": "40STAND60x63",
+    "A/U": "A",
+    "mootud": {
+      "laius": 900.0,
+      "korgus": 0.0,
+      "tk": 3
+    },
+    "detailid": {
+      "kasi": null,
+      "grupid": {
+        "kõrgus": {
+          "mootud": {
+            "Unnamed: 3_level_1": 0.0
+          },
+          "kogus": {}
+        },
+        "käsi": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "prosside jaotus": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "raam": {
+          "mootud": {
+            "L": 814.0,
+            "H": -96.0
+          },
+          "kogus": {
+            "H": 3
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mootud": {
+            "L": 714.0,
+            "H": -196.0
+          },
+          "kogus": {
+            "H": 3
+          }
+        },
+        "lengi detailid": {
+          "mootud": {
+            "ÜH": 900.0,
+            "AH": 800.0,
+            "VERT": -50.0
+          },
+          "kogus": {
+            "ÜH": 3,
+            "AH": 3,
+            "VERT": 6
+          }
+        },
+        "raami detailid": {
+          "mootud": {
+            "ÜH": 814.0,
+            "AH": 814.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "ÜH": 3,
+            "AH": 3,
+            "VERT": 6
+          }
+        },
+        "klaasiliistud": {
+          "mootud": {
+            "HOR": 718.0,
+            "VERT": -192.0
+          },
+          "kogus": 0
+        }
+      }
+    }
+  },
+  "40STAND60x63_800x0": {
+    "toote_tyyp": "40STAND60x63",
+    "A/U": "A",
+    "mootud": {
+      "laius": 800.0,
+      "korgus": 0.0,
+      "tk": 20
+    },
+    "detailid": {
+      "kasi": null,
+      "grupid": {
+        "kõrgus": {
+          "mootud": {
+            "Unnamed: 3_level_1": 0.0
+          },
+          "kogus": {}
+        },
+        "käsi": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "prosside jaotus": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "raam": {
+          "mootud": {
+            "L": 714.0,
+            "H": -96.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mootud": {
+            "L": 614.0,
+            "H": -196.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "lengi detailid": {
+          "mootud": {
+            "ÜH": 800.0,
+            "AH": 700.0,
+            "VERT": -50.0
+          },
+          "kogus": {
+            "ÜH": 20,
+            "AH": 20,
+            "VERT": 40
+          }
+        },
+        "raami detailid": {
+          "mootud": {
+            "ÜH": 714.0,
+            "AH": 714.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "ÜH": 20,
+            "AH": 20,
+            "VERT": 40
+          }
+        },
+        "klaasiliistud": {
+          "mootud": {
+            "HOR": 618.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "HOR": 40,
+            "VERT": 40
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_1250x0": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "TA",
+    "mootud": {
+      "laius": 1250.0,
+      "korgus": 0.0,
+      "tk": 10
+    },
+    "detailid": {
+      "kasi": null,
+      "grupid": {
+        "kõrgus": {
+          "mootud": {
+            "Unnamed: 3_level_1": 0.0
+          },
+          "kogus": {}
+        },
+        "käsi": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "prosside jaotus": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "raam": {
+          "mootud": {
+            "L": 585.0,
+            "H": -96.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mootud": {
+            "L": 485.0,
+            "H": -196.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "lengi detailid": {
+          "mootud": {
+            "ÜH": 1250.0,
+            "AH": 1150.0,
+            "VERT": -50.0
+          },
+          "kogus": {
+            "ÜH": 10,
+            "AH": 10,
+            "VERT": 20
+          }
+        },
+        "raami detailid": {
+          "mootud": {
+            "ÜH": 585.0,
+            "AH": 585.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "ÜH": 20,
+            "AH": 20,
+            "VERT": 40
+          }
+        },
+        "klaasiliistud": {
+          "mootud": {
+            "HOR": 489.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "HOR": 40,
+            "VERT": 40
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_1100x0": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "TA",
+    "mootud": {
+      "laius": 1100.0,
+      "korgus": 0.0,
+      "tk": 1
+    },
+    "detailid": {
+      "kasi": null,
+      "grupid": {
+        "kõrgus": {
+          "mootud": {
+            "Unnamed: 3_level_1": 0.0
+          },
+          "kogus": {}
+        },
+        "käsi": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "prosside jaotus": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "raam": {
+          "mootud": {
+            "L": 510.0,
+            "H": -96.0
+          },
+          "kogus": {
+            "H": 2
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mootud": {
+            "L": 410.0,
+            "H": -196.0
+          },
+          "kogus": {
+            "H": 2
+          }
+        },
+        "lengi detailid": {
+          "mootud": {
+            "ÜH": 1100.0,
+            "AH": 1000.0,
+            "VERT": -50.0
+          },
+          "kogus": {
+            "ÜH": 1,
+            "AH": 1,
+            "VERT": 2
+          }
+        },
+        "raami detailid": {
+          "mootud": {
+            "ÜH": 510.0,
+            "AH": 510.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "ÜH": 2,
+            "AH": 2,
+            "VERT": 4
+          }
+        },
+        "klaasiliistud": {
+          "mootud": {
+            "HOR": 414.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "HOR": 4,
+            "VERT": 4
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_1340x0": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "TA",
+    "mootud": {
+      "laius": 1340.0,
+      "korgus": 0.0,
+      "tk": 4
+    },
+    "detailid": {
+      "kasi": null,
+      "grupid": {
+        "kõrgus": {
+          "mootud": {
+            "Unnamed: 3_level_1": 0.0
+          },
+          "kogus": {}
+        },
+        "käsi": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "prosside jaotus": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "raam": {
+          "mootud": {
+            "L": 630.0,
+            "H": -96.0
+          },
+          "kogus": {
+            "H": 8
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mootud": {
+            "L": 530.0,
+            "H": -196.0
+          },
+          "kogus": {
+            "H": 8
+          }
+        },
+        "lengi detailid": {
+          "mootud": {
+            "ÜH": 1340.0,
+            "AH": 1240.0,
+            "VERT": -50.0
+          },
+          "kogus": {
+            "ÜH": 4,
+            "AH": 4,
+            "VERT": 8
+          }
+        },
+        "raami detailid": {
+          "mootud": {
+            "ÜH": 630.0,
+            "AH": 630.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "ÜH": 8,
+            "AH": 8,
+            "VERT": 16
+          }
+        },
+        "klaasiliistud": {
+          "mootud": {
+            "HOR": 534.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "HOR": 16,
+            "VERT": 16
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_725x0": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "A",
+    "mootud": {
+      "laius": 725.0,
+      "korgus": 0.0,
+      "tk": 10
+    },
+    "detailid": {
+      "kasi": null,
+      "grupid": {
+        "kõrgus": {
+          "mootud": {
+            "Unnamed: 3_level_1": 0.0
+          },
+          "kogus": {}
+        },
+        "käsi": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "prosside jaotus": {
+          "mootud": {},
+          "kogus": {}
+        },
+        "raam": {
+          "mootud": {
+            "L": 639.0,
+            "H": -96.0
+          },
+          "kogus": {
+            "H": 10
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mootud": {
+            "L": 539.0,
+            "H": -196.0
+          },
+          "kogus": {
+            "H": 10
+          }
+        },
+        "lengi detailid": {
+          "mootud": {
+            "ÜH": 725.0,
+            "AH": 625.0,
+            "VERT": -50.0
+          },
+          "kogus": {
+            "ÜH": 10,
+            "AH": 10,
+            "VERT": 20
+          }
+        },
+        "raami detailid": {
+          "mootud": {
+            "ÜH": 639.0,
+            "AH": 639.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "ÜH": 10,
+            "AH": 10,
+            "VERT": 20
+          }
+        },
+        "klaasiliistud": {
+          "mootud": {
+            "HOR": 543.0,
+            "VERT": -192.0
+          },
+          "kogus": {
+            "HOR": 20,
+            "VERT": 20
+          }
+        }
+      }
+    }
+  }
+}
